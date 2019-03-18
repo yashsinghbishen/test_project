@@ -1,7 +1,4 @@
 This is the common files that we are going to use.
 first two lines are written by ysi.
-<<<<<<< HEAD
 My new line is "hello all good Afternoon though it is morning but I like to say good afternoon so whatever."
-=======
 now yogesh is writing on line 3.
->>>>>>> 59fc836762dda4b3d8806974423cfd4ab68ae8a4
